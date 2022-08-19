@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T16:38:33.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="tmoaZEI9v6d7hny9M3pj" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T17:30:40.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="OjvIcGe-efFm5-fhTqG3" version="20.2.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,9 +23,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1190" y="445" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-10" value="พนักงาน" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-55" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="KYn6nnUslq63eHk8-txw-12" target="KYn6nnUslq63eHk8-txw-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -54,7 +51,7 @@
         <mxCell id="KYn6nnUslq63eHk8-txw-18" value="ที่อยู่" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1290" y="555" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-20" value="เบอร์โทรศัพท์" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-20" value="เบอร์โทรศัพท์" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="1330" y="665" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-21" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;fontColor=#000000;" parent="1" edge="1">
@@ -66,7 +63,7 @@
         <mxCell id="KYn6nnUslq63eHk8-txw-22" value="รหัสสาขา" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1300" y="755" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-23" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;fontColor=#000000;" parent="1" edge="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-23" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;fontColor=#000000;startArrow=none;" parent="1" edge="1" source="KYn6nnUslq63eHk8-txw-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1180" y="345" as="sourcePoint" />
             <mxPoint x="1180" y="260" as="targetPoint" />
@@ -84,17 +81,8 @@
         <mxCell id="KYn6nnUslq63eHk8-txw-26" value="D.O.B" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1250" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-27" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;fontColor=#000000;entryX=0;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KYn6nnUslq63eHk8-txw-28" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1250" y="370" as="sourcePoint" />
-            <mxPoint x="1330" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1280" y="360" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-28" value="วันเริ่มงาน" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="1360" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-30" value="โทรศัพท์ที่นำมาซ่อม" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="240" y="590" width="160" height="60" as="geometry" />
@@ -111,7 +99,7 @@
         <mxCell id="KYn6nnUslq63eHk8-txw-35" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KYn6nnUslq63eHk8-txw-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="377.5" as="sourcePoint" />
-            <mxPoint x="1130" y="372.5" as="targetPoint" />
+            <mxPoint x="1140" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-49" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Helvetica;fontColor=#000000;" parent="KYn6nnUslq63eHk8-txw-35" vertex="1" connectable="0">
@@ -120,12 +108,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-36" value="บริการ" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="830" y="310" width="110" height="110" as="geometry" />
+          <mxGeometry x="830" y="295" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-37" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="KYn6nnUslq63eHk8-txw-36" edge="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-37" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="350" as="sourcePoint" />
-            <mxPoint x="420" y="300" as="targetPoint" />
+            <mxPoint x="830" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-50" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Helvetica;fontColor=#000000;" parent="KYn6nnUslq63eHk8-txw-37" vertex="1" connectable="0">
@@ -145,7 +133,7 @@
             <mxPoint x="335" y="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-40" value="1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" edge="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-40" value="1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="KYn6nnUslq63eHk8-txw-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1080" y="455" as="sourcePoint" />
             <mxPoint x="1130" y="405" as="targetPoint" />
@@ -155,7 +143,7 @@
         <mxCell id="KYn6nnUslq63eHk8-txw-41" value="เป็น" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1045" y="445" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-42" value="1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" edge="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-42" value="1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" source="KYn6nnUslq63eHk8-txw-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="540" as="sourcePoint" />
             <mxPoint x="1050" y="490" as="targetPoint" />
@@ -164,13 +152,13 @@
         <mxCell id="KYn6nnUslq63eHk8-txw-82" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="KYn6nnUslq63eHk8-txw-43" target="KYn6nnUslq63eHk8-txw-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="910" y="570" />
-              <mxPoint x="910" y="610" />
+              <mxPoint x="790" y="615" />
+              <mxPoint x="790" y="615" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-43" value="ช่างซ่อม" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="920" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-44" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="KYn6nnUslq63eHk8-txw-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -178,7 +166,7 @@
             <mxPoint x="1070" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-45" value="รหัสพนักงาน" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-45" value="รหัสพนักงาน" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="1000" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-46" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.377;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KYn6nnUslq63eHk8-txw-47" target="KYn6nnUslq63eHk8-txw-43" edge="1">
@@ -187,10 +175,10 @@
             <mxPoint x="980" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-47" value="รหัสช่างซ่อม" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-47" value="รหัสช่างซ่อม" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="980" y="655" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-51" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" edge="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-51" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;entryX=0.073;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.981;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" target="KYn6nnUslq63eHk8-txw-30" source="KYn6nnUslq63eHk8-txw-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="705" as="sourcePoint" />
             <mxPoint x="250" y="655" as="targetPoint" />
@@ -199,7 +187,7 @@
         <mxCell id="KYn6nnUslq63eHk8-txw-52" value="อาการผิดปกติของเครื่อง" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="80" y="680" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-53" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;dashed=1;" parent="1" edge="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-53" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;dashed=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="KYn6nnUslq63eHk8-txw-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1250" y="400" as="sourcePoint" />
             <mxPoint x="1340" y="400" as="targetPoint" />
@@ -217,7 +205,7 @@
         <mxCell id="KYn6nnUslq63eHk8-txw-57" value="วันที่นำมาซ่อม" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="200" y="710" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-60" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" edge="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-60" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;exitX=0.292;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="KYn6nnUslq63eHk8-txw-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="710" as="sourcePoint" />
             <mxPoint x="370" y="655" as="targetPoint" />
@@ -226,7 +214,7 @@
         <mxCell id="KYn6nnUslq63eHk8-txw-61" value="สาเหตุการชำรุด" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="350" y="710" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-62" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;entryX=0;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KYn6nnUslq63eHk8-txw-63" edge="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-62" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;entryX=0;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.017;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="KYn6nnUslq63eHk8-txw-63" edge="1" source="KYn6nnUslq63eHk8-txw-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="625" as="sourcePoint" />
             <mxPoint x="490" y="625" as="targetPoint" />
@@ -238,13 +226,12 @@
         <mxCell id="KYn6nnUslq63eHk8-txw-66" value="M" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="KYn6nnUslq63eHk8-txw-64" target="KYn6nnUslq63eHk8-txw-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="610" />
-              <mxPoint x="530" y="610" />
+              <mxPoint x="400" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-64" value="ซ่อม" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="670" y="570" width="80" height="80" as="geometry" />
+          <mxGeometry x="670" y="575" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-67" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.946;exitY=0.781;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KYn6nnUslq63eHk8-txw-68" target="KYn6nnUslq63eHk8-txw-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -273,22 +260,22 @@
         <mxCell id="KYn6nnUslq63eHk8-txw-72" value="คำนำหน้า" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1270" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-73" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;entryX=0.191;entryY=1.08;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KYn6nnUslq63eHk8-txw-43" edge="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-73" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;entryX=0.167;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KYn6nnUslq63eHk8-txw-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="710" as="sourcePoint" />
             <mxPoint x="950" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-74" value="รหัสพนักงาน" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-74" value="รหัสพนักงาน" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="840" y="700" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-76" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" edge="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-76" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;entryX=0.944;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="KYn6nnUslq63eHk8-txw-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="750" as="sourcePoint" />
             <mxPoint x="390" y="655" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KYn6nnUslq63eHk8-txw-77" value="รหัสช่างซ่อม" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KYn6nnUslq63eHk8-txw-77" value="รหัสช่างซ่อม" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="470" y="735" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-78" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;entryX=0.566;entryY=1.051;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KYn6nnUslq63eHk8-txw-30" edge="1">
@@ -308,6 +295,33 @@
         </mxCell>
         <mxCell id="KYn6nnUslq63eHk8-txw-81" value="เบอร์โทรของผู้นำมาซ่อม" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="430" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="96rdQifQE6kV4saKLxE9-1" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="96rdQifQE6kV4saKLxE9-2" value="รหัสอ้างอิงลูกค้า" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;verticalAlign=top;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="96rdQifQE6kV4saKLxE9-3" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="KYn6nnUslq63eHk8-txw-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="420" as="sourcePoint" />
+            <mxPoint x="240" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="96rdQifQE6kV4saKLxE9-4" value="วันที่ใช้บริการล่าสุด" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="405" width="140" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="KYn6nnUslq63eHk8-txw-10" value="พนักงาน" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1135" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96rdQifQE6kV4saKLxE9-9" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.028;entryY=0.671;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KYn6nnUslq63eHk8-txw-10" target="KYn6nnUslq63eHk8-txw-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="360" as="sourcePoint" />
+            <mxPoint x="1350" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
